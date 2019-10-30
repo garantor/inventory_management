@@ -16,3 +16,18 @@ This is a python inventory mnagement system built with Django and sqlite as the 
 * Add New Products
 * Edit Products
 * Delete Products
+* Search for Products
+* Display All products
+---
+
+## Prerequsite 
+
+* Install Python 3.7.3
+* Django 2.2.1
+* Django-import-export 1.2.0
+
+# Installing
+
+You can Run the git clone command on you machine within your already created Virtual Enviroment and simply run the django Command 'python manage.py runserver' after cloning
+
+![IMAGE OF VIEWS](1.jpg)
