@@ -9,9 +9,9 @@ This is a python inventory mnagement system built with Django and sqlite as the 
 
 ### FEATURES
 
-*Display Products 
-*Export Products
-*Import Products and Details
-*Add New Products
-*Edit Products
-*Delete Products
+* Display Products 
+* Export Products
+* Import Products and Details
+* Add New Products
+* Edit Products
+* Delete Products
