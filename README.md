@@ -31,3 +31,8 @@ This is a python inventory mnagement system built with Django and sqlite as the 
 You can Run the git clone command on you machine within your already created Virtual Enviroment and simply run the django Command 'python manage.py runserver' after cloning
 
 ![IMAGE OF VIEWS](1.jpg)
+![IMAGE OF VIEWS](2.jpg)
+![IMAGE OF VIEWS](3.jpg)
+![IMAGE OF VIEWS](4.jpg)
+![IMAGE OF VIEWS](5.jpg)
+![IMAGE OF VIEWS](6.jpg)
