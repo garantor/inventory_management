@@ -7,6 +7,7 @@ This is a python file not a javascript, feel free to clone and run it like you w
 
 This is a python inventory mnagement system built with Django and sqlite as the database,  which provides as easy way to track the products,(Phones, Desktops and Laptops). You can check out the live version on [Heroku Here](https://inventweb.herokuapp.com/)
 
+---
 ### FEATURES
 
 *Display Products 
